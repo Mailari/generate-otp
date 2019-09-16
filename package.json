@@ -1,11 +1,19 @@
 {
-  "name": "genrate-otp",
+  "name": "genarate-otp",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "npm pacckage for generate otp of desigred digit",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mailari/generate-otp.git"
   },
+  "keywords": [
+    "genarete-otp"
+  ],
   "author": "Mailari Hulihond <mailarighulihond@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mailari/generate-otp/issues"
+  },
+  "homepage": "https://github.com/Mailari/generate-otp#readme"
 }
